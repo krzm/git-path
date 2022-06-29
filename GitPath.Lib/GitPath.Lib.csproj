@@ -15,35 +15,11 @@
 		<Reference Include="DIHelper">
 			<HintPath>..\..\di-helper\DIHelper\bin\Debug\net6.0\DIHelper.dll</HintPath>
 		</Reference>
-		<Reference Include="Config.Wrapper">
-			<HintPath>..\..\config-wrapper\Config.Wrapper\bin\Debug\net6.0\Config.Wrapper.dll</HintPath>
-		</Reference>
-		<Reference Include="CommandDotNet.Helper">
-			<HintPath>..\..\commanddotnet-helper\CommandDotNet.Helper\bin\Debug\net6.0\CommandDotNet.Helper.dll</HintPath>
-		</Reference>
-		<Reference Include="CommandDotNet.Unity.Helper">
-			<HintPath>..\..\commanddotnet-helper\CommandDotNet.Unity.Helper\bin\Debug\net6.0\CommandDotNet.Unity.Helper.dll</HintPath>
-		</Reference>
-		<Reference Include="Serilog.Wrapper">
-			<HintPath>..\..\serilog-wrapper\Serilog.Wrapper\bin\Debug\net6.0\Serilog.Wrapper.dll</HintPath>
-		</Reference>
 	</ItemGroup> -->
 	<!--Release refs-->
 	<ItemGroup>
 		<Reference Include="DIHelper">
 			<HintPath>..\..\..\Build\di-helper\DIHelper\DIHelper.dll</HintPath>
-		</Reference>
-		<Reference Include="Config.Wrapper">
-			<HintPath>..\..\..\Build\config-wrapper\Config.Wrapper\Config.Wrapper.dll</HintPath>
-		</Reference>
-		<Reference Include="CommandDotNet.Helper">
-			<HintPath>..\..\..\Build\commanddotnet-helper\CommandDotNet.Helper\CommandDotNet.Helper.dll</HintPath>
-		</Reference>
-		<Reference Include="CommandDotNet.Unity.Helper">
-			<HintPath>..\..\..\Build\commanddotnet-helper\CommandDotNet.Unity.Helper\CommandDotNet.Unity.Helper.dll</HintPath>
-		</Reference>
-		<Reference Include="Serilog.Wrapper">
-			<HintPath>..\..\..\Build\serilog-wrapper\Serilog.Wrapper\Serilog.Wrapper.dll</HintPath>
 		</Reference>
 	</ItemGroup>
 
